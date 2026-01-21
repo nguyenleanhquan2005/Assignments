@@ -1,0 +1,17 @@
+1
+duyet in ra sorted binary tree 
+        10
+      5        15
+    2   7     11   19
+                        26
+
+
+
+
+
+2
+implement bubble sort va quick sort doi voi mang 100k phan tu in ra thoi gian cua tung giai thuat.
+3
+tim hieu cach su dung git checkout, pull, push, merge, rebase, reset, cherry pick
+tao pull request
+
