@@ -15,3 +15,5 @@ implement bubble sort va quick sort doi voi mang 100k phan tu in ra thoi gian cu
 tim hieu cach su dung git checkout, pull, push, merge, rebase, reset, cherry pick
 tao pull request
 
+4 fibonacci = 2 cách đệ quy và không đệ quy 
+tính fibonacci bằng quy hoạch động 
